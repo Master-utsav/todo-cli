@@ -1,5 +1,5 @@
 {
-  "name": "todo-cli",
+  "name": "master-todo-cli",
   "version": "1.0.0",
   "description": "A simple CLI for managing TODO tasks",
   "main": "index.js",

@@ -1,15 +1,21 @@
 
-# Todo_CLI
+# todo-cli
 
-`Todo_CLI` is a command-line interface (CLI) tool for managing your todo tasks. It allows you to add, list, mark as completed, remove, and update tasks stored in a `todo.json` file.
+`todo-cli` is a command-line interface (CLI) tool for managing your todo tasks. It allows you to add, list, mark as completed, remove, and update tasks stored in a `todo.json` file.
+
+## NPM installation
+
+```bash
+npm install  master-todo-cli
+```
 
 ## Installation
 
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/Todo_CLI.git
-cd Todo_CLI
+git clone https://github.com/master-utsav/todo-cli.git
+cd todo-cli
 ```
 
 Install dependencies (if any):
